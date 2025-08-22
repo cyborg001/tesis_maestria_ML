@@ -1,0 +1,44 @@
+Listado de Artículos y Publicaciones de Investigación (Últimos 5 Años)
+Tema: Cálculo de la Magnitud Sísmica Local (ML)
+
+### Calibración de Escalas de Magnitud y Nuevos Modelos
+
+1.  **Estudio sobre una nueva fórmula de magnitud local para Cuba (2023)**
+    *   Fuente: [Geoscience World](https://geoscienceworld.org/ssa/bssa/article-abstract/113/2/878/620657/A-Local-Magnitude-Scale-for-Southeastern-Cuba)
+    *   Título (traducido): "Una Escala de Magnitud Local para el Sureste de Cuba"
+
+2.  **Actualización de la escala de magnitud para la Cuenca Sedimentaria del Oeste de Canadá (2020)**
+    *   Fuente: [CSEG Recorder](http://csegrecorder.com/articles/view/revisiting-the-richter-local-magnitude-scale-in-the-western-canada-sedime)
+    *   Título (traducido): "Revisando la Escala de Magnitud Local de Richter en la Cuenca Sedimentaria del Oeste de Canadá"
+
+3.  **Derivación de una nueva escala de magnitud local dependiente de la profundidad para Nueva Zelanda (2020)**
+    *   Fuente: [Geoscience World](https://geoscienceworld.org/ssa/bssa/article-abstract/110/5/2330/589281/A-New-Depth-Dependent-Local-Magnitude-Scale-for)
+    *   Título (traducido): "Una Nueva Escala de Magnitud Local Dependiente de la Profundidad para Nueva Zelanda"
+
+4.  **Propuesta de una relación de magnitud local para Texas, EE. UU. (2020)**
+    *   Fuente: [ResearchGate](https://www.researchgate.net/publication/341302988_A_Local_Magnitude_Scale_for_the_TexNet_Seismic_Network_in_Texas)
+    *   Título (traducido): "Una Escala de Magnitud Local para la Red Sísmica TexNet en Texas"
+
+5.  **Construcción de una nueva escala de magnitud (MLP) para el Reino Unido (2020)**
+    *   Fuente: [Oxford University Press](https://academic.oup.com/gji/article/222/1/537/5730955)
+    *   Título (traducido): "Magnitud local de la onda P para el Reino Unido"
+
+6.  **Desarrollo de escalas de ML para regiones intraplaca en India (2020)**
+    *   Fuente: [Gujarat State Disaster Management Authority](https://www.gsdma.org/uploads/assets/0112a7862dd244f6c362a3038cb2a337.pdf)
+    *   Título (traducido): "Desarrollo de una relación de atenuación de la intensidad del movimiento del suelo y una escala de magnitud local para la región del rift de Kachchh, Gujarat, India"
+
+### Aplicaciones de Aprendizaje Automático (Machine Learning)
+
+7.  **Revisión sobre el uso de aprendizaje automático para la estimación de la magnitud sísmica.**
+    *   Fuente: [MDPI](https://www.mdpi.com/2076-3263/12/5/189)
+    *   Título (traducido): "Una Revisión de la Estimación de la Magnitud de Terremotos usando Aprendizaje Automático"
+
+8.  **Artículo sobre la predicción de magnitud usando el período dominante de la onda P.**
+    *   Fuente: [ResearchGate](https://www.researchgate.net/publication/339998061_Local_magnitude_prediction_using_the_dominant_period_of_P-wave_A_case_study_for_small_to_moderate_earthquakes_in_the_Weihe_Graben_North_China)
+    *   Título (traducido): "Predicción de la magnitud local usando el período dominante de la onda P: Un estudio de caso para terremotos de pequeños a moderados en el Graben de Weihe, Norte de China"
+
+### Uso de Datos GPS
+
+9.  **Estudio sobre la estimación de la magnitud del momento sísmico usando datos de GPS en tiempo real.**
+    *   Fuente: [ResearchGate](https://www.researchgate.net/publication/344459985_Real-time_seismic_moment_magnitude_estimation_from_the_peak_ground_displacement_PGD_using_GPS_data)
+    *   Título (traducido): "Estimación de la magnitud del momento sísmico en tiempo real a partir del desplazamiento máximo del suelo (PGD) usando datos de GPS"

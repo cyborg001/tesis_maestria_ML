@@ -1,0 +1,19 @@
+Referencias en Formato APA
+
+1.  Babaie Mahani, A., & Kao, H. (2019). Accurate determination of local magnitude for earthquakes in the Western Canada Sedimentary Basin. *Seismological Research Letters*, *90*(1), 203–211. https://doi.org/10.1785/0220180264
+
+2.  Diez Zaldivar, E. R., Sandron, D., & Cutie Mustelier, M. (2024). Calibration of the Local Magnitude Scale (ML) for Eastern Cuba. *Seismological Research Letters*. https://doi.org/10.1785/0220230286
+
+3.  Green, D. N., Luckett, R., Baptie, B., & Bowers, D. (2020). A UK local seismic magnitude scale, MLP, using P-wave amplitudes. *Geophysical Journal International*, *223*(3), 2054–2065. https://doi.org/10.1093/gji/ggaa438
+
+4.  Kavoura, F., Savvaidis, A., & Rathje, E. (2020). Determination of Local Magnitude for Earthquakes Recorded from the Texas Seismological Network (TexNet). *Seismological Research Letters*, *91*(6), 3223–3235. https://doi.org/10.1785/0220190366
+
+5.  Mandal, P., & Rastogi, B. K. (2019). A Local Magnitude Scale (ML) for the Kachchh Rift Basin: An Active Intraplate Region, Gujarat, India. *Bulletin of the Seismological Society of America*, 109(1), 34-45. https://doi.org/10.1785/0120180138
+
+6.  Navarro-Rodríguez, A., Castro-Artola, O. A., García-Guerrero, E. E., Aguirre-Castro, O. A., Tamayo-Pérez, U. J., López-Mercado, C. A., & Inzunza-Gonzalez, E. (2025). Recent Advances in Early Earthquake Magnitude Estimation by Using Machine Learning Algorithms: A Systematic Review. *Applied Sciences*, *15*(7), 3492. https://doi.org/10.3390/app15073492
+
+7.  Rhoades, D. A., Christophersen, A., Bourguignon, S., Ristau, J., & Salichon, J. (2021). A Depth-Dependent Local Magnitude Scale for New Zealand Earthquakes Consistent with Moment Magnitude. *Bulletin of the Seismological Society of America*, *111*(2), 893–907. https://doi.org/10.1785/0120200252
+
+8.  Shu, L.-s., Zhou, S.-m., Zhang, W.-j., Zhou, S.-l., & Zhang, D.-r. (2022). Local magnitude prediction using the dominant period of P-wave: A case study for small to moderate earthquakes in the Weihe Graben, North China. *Journal of Seismology*, *26*(2), 375–389. https://doi.org/10.1007/s10950-021-10070-z
+
+9.  Wu, Y. M., & Kanamori, H. (2005). Experiment on real-time determination of seismic moment magnitude from records of a dense GPS network. *Bulletin of the Seismological Society of America*, *95*(5), 1893-1907.
